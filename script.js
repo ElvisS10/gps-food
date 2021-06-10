@@ -13,20 +13,8 @@ function staticLoadPlaces() {
             name: 'Hamburguesa',
             location: {
                 // decomment the following and add coordinates:
-                lat: 17.26913,
-                lng: -97.67965,
-            },
-            name: 'Pizza',
-            location: {
-                // decomment the following and add coordinates:
-                lat: 17.26913,
-                lng: -97.67965,
-            },
-            name: 'combo',
-            location: {
-                // decomment the following and add coordinates:
-                lat: 17.26913,
-                lng: -97.67965,
+                //lat: 17.26913,
+                //lng: -97.67965,
             },
         },
     ];
